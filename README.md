@@ -79,6 +79,21 @@ Open the local URL displayed in the terminal.
 - Application deadline notifications
 - Deployment to a hosting platform
 
+
+## Screenshots
+
+### Dashboard
+![JobTrack Dashboard](screenshots/dashborad-light.png)
+![JobTrack Dashboard](screenshots/dashboard-dark.png)
+
+### Applications
+![JobTrack Applications](screenshots/application-light.png)
+![JobTrack Applications](screenshots/application-dark.png)
+
+### Charts & Analytics
+![JobTrack Charts and Analytics](screenshots/analytics-light.png)
+![JobTrack Charts and Analytics](screenshots/analytics-dark.png)
+
 ## Author
 
 **Fathima Umaima**
